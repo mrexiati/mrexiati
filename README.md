@@ -18,7 +18,6 @@ Tech stacks I'm enthusiastic about and have professional experience with:
   [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.oracle.com/java/)
   [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
-
 - **Full-Stack Web Development:**
   [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://reactjs.org/)
   [![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
