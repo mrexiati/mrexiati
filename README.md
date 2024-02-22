@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 👨‍💻 Senior Software QA Automation Engineer & 🛠️ Full-Stack Developer Enthusiast
+I am a 👨‍💻 Senior Software QA Automation Engineer & 🛠️ Full-Stack Web Development Enthusiast
 
 I specialize in building and designing End-to-End and REST API testing frameworks from scratch, focusing on the fundamentals to craft efficient solutions to any puzzles. Outside of work, I enjoy spending my time building full-stack web applications and developing new testing approaches.
 
